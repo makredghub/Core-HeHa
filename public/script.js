@@ -18,12 +18,12 @@ button.addEventListener("click", function () {
 
     if (coreStatus.trim() === "") {
 
-        message.textContent = "Please enter your core status.";
+        message.textContent = "Please enter your Core status.";
 
     } else {
 
         message.textContent =
-            "Hey... you seem to have trouble in your Core Dear, check with Doctor... "
+            "Hey Chintu ga.. you seem to have trouble in your Core Dear, check with Doctor... "
 
     }
 
